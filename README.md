@@ -18,6 +18,6 @@
 <br />
 <br />
 
-[linkedin]: www.linkedin.com/in/lucas-zafran/
+[linkedin]: https://www.linkedin.com/in/lucas-zafran/
 [twitter]: https://twitter.com/lucas_zafran/
 
