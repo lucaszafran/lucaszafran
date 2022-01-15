@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @lucaszafran
+- 👋 Hi, I’m Lucas Zafran
 - 👀 I’m interested in photography and expanding my knowledge of coding.
 - 🌱 I’m currently learning java and python.
 - 💞️ I’m looking to collaborate on small projects. 
 
-<!---
-lucaszafran/lucaszafran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect with me
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<br />
+<br />
+
+### Technology Stack:
+
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][blog]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][blog]
+[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blog]
+<br />
+<br />
+
+### :zap: GitHub Stats
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.lucaszafran.vercel.app/api/top-langs/?username=lucaszafran&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.lucaszafran.vercel.app/api?username=lucaszafran&hide=html&layout=compact&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>
+
+[linkedin]: www.linkedin.com/in/lucas-zafran
+[twitter]: https://twitter.com/lucas_zafran
