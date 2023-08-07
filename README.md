@@ -14,7 +14,7 @@
 
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C/C.png"/>
+<img align="left" alt="C" width="50px" src="https://repository-images.githubusercontent.com/430250138/cca771c8-fe2e-4867-83ce-05e1a7d0dfb0"/>
 
 <br />
 <br />
