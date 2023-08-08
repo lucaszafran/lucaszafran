@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Lucas Zafran
-- 👀 I’m interested in photography and expanding my knowledge of coding.
-- 🌱 I’m currently learning Python and C.
-- 💞️ I’m looking to collaborate on small projects. 
+- 📚 I am currently a 2nd year Biomedical Engineering student at The University of British Columbia. 
+- 📸 I’m interested in photography and expanding my knowledge of coding.
+- 👨🏻‍💻 I’m currently learning Python and C.
+- 😁 I’m looking to collaborate on small projects. 
 
 ### Connect with me
 
